@@ -1,57 +1,22 @@
-README
+# Relativistic Spheres
+
+Thesis name: Matching Conditions in 1+3 Formalism of General Relativity for Astrophysical Scenarios
+Author: Mariannly Marquez-Pirela
+Advisor: Msc. David Andrade
+Co-advisor:  PhD. Luis A. Núñez
+
+Colaborators: Wladimir Banda-Barragán. Andrés Correa. 
 
 
 
-\begin{table}[ht]
-\centering
-\renewcommand{\arraystretch}{1.3}
-\begin{tabular}{|c|c|c|c|}
-\hline
-\textbf{Permeability} 
-& $\boldsymbol{\tau_{\alpha\beta}}$
-& $\boldsymbol{\tau^{\alpha}_{\ \beta ; \alpha}}$ 
-& \textbf{Hypersurface type}
-\\
-\hline
-
-\multirow{3}{*}{No $(\dot{c}=\dot{r}^\pm)$}
-& $=0$
-& $=0$
-& Simple Boundary Surface
-\\ \cline{2-4}
-
-& $\neq 0$
-& $=0$
-& Simple Surface Layer
-\\ \cline{2-4}
-
-& $\neq 0$
-& $\neq 0$
-& Divergent Surface Layer
-\\
-\hline
-
-\multirow{3}{*}{Yes $(\dot{c}\neq\dot{r}^\pm)$}
-& $=0$
-& $=0$
-& Simple Shock Front
-\\ \cline{2-4}
-
-& $\neq 0$
-& $=0$
-& Divergence-free Impulsive Shock Front
-\\ \cline{2-4}
-
-& $\neq 0$
-& $\neq 0$
-& General Impulsive Shock Front
-\\
-\hline
-
-\end{tabular}
-\caption{Classification of hypersurfaces according to permeability, surface energy-momentum tensor, and its divergence.}
-\label{tab:hypersurface_classification}
-\end{table}
+| Permeability | $\tau_{\alpha\beta}$ | $\tau^{\alpha}_{\ \beta ; \alpha}$ | Hypersurface type |
+|--------------|----------------------|------------------------------------|-------------------|
+| No ($\dot{c}=\dot{r}^{\pm}$) | $=0$ | $=0$ | Simple Boundary Surface |
+| No ($\dot{c}=\dot{r}^{\pm}$) | $\neq 0$ | $=0$ | Simple Surface Layer |
+| No ($\dot{c}=\dot{r}^{\pm}$) | $\neq 0$ | $\neq 0$ | Divergent Surface Layer |
+| Yes ($\dot{c}\neq\dot{r}^{\pm}$) | $=0$ | $=0$ | Simple Shock Front |
+| Yes ($\dot{c}\neq\dot{r}^{\pm}$) | $\neq 0$ | $=0$ | Divergence-free Impulsive Shock Front |
+| Yes ($\dot{c}\neq\dot{r}^{\pm}$) | $\neq 0$ | $\neq 0$ | General Impulsive Shock Front |
 
 
 
