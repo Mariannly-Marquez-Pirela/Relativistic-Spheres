@@ -1,11 +1,14 @@
 # Relativistic Spheres
 
 Thesis name: Matching Conditions in 1+3 Formalism of General Relativity for Astrophysical Scenarios
+
 Author: Mariannly Marquez-Pirela
+
 Advisor: Msc. David Andrade
+
 Co-advisor:  PhD. Luis A. Núñez
 
-Colaborators: Wladimir Banda-Barragán. Andrés Correa. 
+Colaborators: Wladimir Banda-Barragán, Andrés Correa. 
 
 
 
@@ -21,7 +24,7 @@ Colaborators: Wladimir Banda-Barragán. Andrés Correa.
 
 
 
-License: 
+
 
 <a href="https://github.com/Mariannly-Marquez-Pirela/Relativistic-Spheres.git">Relativistic-Spheres</a> © 2026 by <a href="https://github.com/Mariannly-Marquez-Pirela">M. Marquez-Pirela</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
