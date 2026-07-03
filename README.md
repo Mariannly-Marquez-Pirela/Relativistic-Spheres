@@ -8,7 +8,7 @@ Advisor: Msc. David Andrade
 
 Co-advisor:  PhD. Luis A. Núñez
 
-Colaborators: Wladimir Banda-Barragán, Andrés Correa. 
+Colaborators: Justo Ospino, Daniel Suaréz, Wladimir Banda-Barragán, Andrés Correa. 
 
 
 
